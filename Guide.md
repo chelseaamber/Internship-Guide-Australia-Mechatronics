@@ -10,14 +10,35 @@ Company | Information
 --- | --
 CSIRO |
 IBM |
+ANZ |
+NAB |
+AECOM |
+Deliotte |
+QANTAS |
+CommBank |
+Australian Security Intelligence Organisation (ASIO) |
+Department of Defence |
+BHP |
+WestPac |
+PwC |
+
 
 
 ### Software: 
 ___
 Company | Information
 --- | ---
+Apple | 
+Akuna |
+Amazon |
+Airbnb |
 Google | An internship for the internet and tech giant pays very well. Software engineering interns make more than $6,600 each month and an internship for MBA students pays $8,200 each month, according to anonymous reviews on Glassdoor.)
 Facebook | An internship at Facebook includes hackathons, offsite events and weekly Q&A sessions with executives, according to the company’s website. Interns make anywhere between $7,000 and $8,000 per month Glassdoor reports.)
+Github |
+Microsoft |
+
+
+
 
 ### Mechanical (mostly automotive):
 ___
