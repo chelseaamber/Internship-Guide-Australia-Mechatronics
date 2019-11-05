@@ -8,11 +8,7 @@ Mechatronics is a mix of Electrical, Mechanical and Software concepts, so I have
 ___
 Company | AUS Internship | Information
 --- | --- | ---
-[CSIRO](https://www.csiro.au/en/Careers/Studentships/Vacation-scholarships) | ✔️ | Applications are open to students who:
-
-* are currently enrolled as an undergraduate student
-* have completed three years of a full-time undergraduate course (however exceptional second year students may be considered)
-* intend to go on to honours and/or postgraduate study (if studying science or engineering).
+[CSIRO](https://www.csiro.au/en/Careers/Studentships/Vacation-scholarships) | ✔️ | Have to have completed three years of a full-time undergraduate course (however exceptional second year students may be considered) & intend to go on to honours and/or postgraduate study (if studying science or engineering).
 [IBM](https://www.ibm.com/au-en/employment/internship.html) | ✔️ | No Engineering / CS related internships
 [ANZ](https://www.anz.com.au/careers/programs/summer-intern/) | ✔️ | Summer Internship available
 [NAB](https://www.nab.com.au/about-us/careers/graduate-careers/nab-summer-intern-program) | ✔️ | Summer Internship Available
