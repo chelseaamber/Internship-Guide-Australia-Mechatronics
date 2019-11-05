@@ -6,27 +6,31 @@ Mechatronics is a mix of Electrical, Mechanical and Software concepts, so I have
 
 ### General:
 ___
-Company | Information
+Company | AUS Internship | Information
 --- | --
-CSIRO |
-IBM |
-ANZ |
-NAB |
-AECOM |
-Deliotte |
-QANTAS |
-CommBank |
-Australian Security Intelligence Organisation (ASIO) |
-Department of Defence |
-BHP |
-WestPac |
-PwC |
+[CSIRO](https://www.csiro.au/en/Careers/Studentships/Vacation-scholarships) | ✔️ | Applications are open to students who:
 
+* are currently enrolled as an undergraduate student
+* have completed three years of a full-time undergraduate course (however exceptional second year students may be considered)
+* intend to go on to honours and/or postgraduate study (if studying science or engineering).
+[IBM](https://www.ibm.com/au-en/employment/internship.html) | ✔️ | No Engineering / CS related internships
+[ANZ](https://www.anz.com.au/careers/programs/summer-intern/) | ✔️ | Summer Internship available
+[NAB](https://www.nab.com.au/about-us/careers/graduate-careers/nab-summer-intern-program) | ✔️ | Summer Internship Available
+[AECOM](https://www.aecom.com/australia-new-zealand-graduate-careers/undergraduate/) | ✔️ | We are seeking applicants from a wide range of disciplines, including civil, electrical, environmental, geotechnical, mechanical, structural, building services and chemical engineering as well as design, planning and program and cost management fields
+[Deliotte](https://www2.deloitte.com/au/en/pages/careers/articles/summer-vacation-program-careers.html) | ✔️ | "three to eight weeks in one of our business units" (Over summer)
+[CommBank](https://www.commbank.com.au/about-us/careers/graduate-recruitment-program.html) | ✔️ | 10-week Summer program
+[BHP](https://www.bhp.com/our-approach/work-with-us/graduate-and-student-programs/australia) | ✔️ | "you will be a penultimate student and start in November working with us for 10-12 weeks."
+[WestPac](https://graduates.westpacgroup.com.au/internship) | ✔️ | Paid 10-week program
+[PwC](https://www.pwc.com.au/careers/student-careers/vacation.html) | ✔️ | 3-8 week summer program
 
+Other ideas of companies, but I could not find an online application for an internship program: 
+* QANTAS
+* Australian Security Intelligence Organisation (ASIO)
+* Department of Defence (have a graduate program online)
 
 ### Software: 
 ___
-Company | Information
+Company | AUS Internship | Information
 --- | ---
 Apple | 
 Akuna |
@@ -37,12 +41,9 @@ Facebook | An internship at Facebook includes hackathons, offsite events and wee
 Github |
 Microsoft |
 
-
-
-
 ### Mechanical (mostly automotive):
 ___
-Company | Information
+Company | AUS Internship | Information
 --- | ---
 BMW |
 Holden |
@@ -53,10 +54,9 @@ Porsche |
 Mazda |
 Ford |
 
-
 ### Electrical:
 ___
-Company | Information
+Company | AUS Internship | Information
 --- | ---
 Dell |
 Intel |
