@@ -7,7 +7,7 @@ Mechatronics is a mix of Electrical, Mechanical and Software concepts, so I have
 ### General:
 ___
 Company | AUS Internship | Information
---- | --
+--- | --- | ---
 [CSIRO](https://www.csiro.au/en/Careers/Studentships/Vacation-scholarships) | ✔️ | Applications are open to students who:
 
 * are currently enrolled as an undergraduate student
@@ -31,7 +31,7 @@ Other ideas of companies, but I could not find an online application for an inte
 ### Software: 
 ___
 Company | AUS Internship | Information
---- | ---
+--- | --- | ---
 Apple | 
 Akuna |
 Amazon |
@@ -44,7 +44,7 @@ Microsoft |
 ### Mechanical (mostly automotive):
 ___
 Company | AUS Internship | Information
---- | ---
+--- | --- | ---
 BMW |
 Holden |
 Tesla |
@@ -57,7 +57,7 @@ Ford |
 ### Electrical:
 ___
 Company | AUS Internship | Information
---- | ---
+--- | --- | ---
 Dell |
 Intel |
 HP |
