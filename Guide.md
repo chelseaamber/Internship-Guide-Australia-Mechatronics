@@ -1,11 +1,9 @@
 ## Internship ideas + links to apply + information 💻
-___
 I am currently in my second year of Engineering at Monash and not looking to apply for internships anytime soon. 
 However, idealising my long-term goals is a realistic source of motivation + inspiration for me, hence this list!
 Mechatronics is a mix of Electrical, Mechanical and Software concepts, so I have split the list into these categories - although ideally I'd like one that incorporates all of them. 
 
 ### General:
-___
 Company | AUS Internship | Information
 --- | --- | ---
 [CSIRO](https://www.csiro.au/en/Careers/Studentships/Vacation-scholarships) | ✔️ | Have to have completed three years of a full-time undergraduate course (however exceptional second year students may be considered) & intend to go on to honours and/or postgraduate study (if studying science or engineering).
@@ -25,7 +23,6 @@ Other ideas of companies, but I could not find an online application for an inte
 * Department of Defence (have a graduate program online)
 
 ### Software: 
-___
 Company | AUS Internship | Information
 --- | --- | ---
 Apple | 
@@ -39,7 +36,6 @@ Microsoft |
 Samsung |
 
 ### Mechanical (mostly automotive):
-___
 Company | AUS Internship | Information
 --- | --- | ---
 BMW |
@@ -52,7 +48,6 @@ Mazda |
 Ford |
 
 ### Electrical:
-___
 Company | AUS Internship | Information
 --- | --- | ---
 Dell |
@@ -61,7 +56,7 @@ HP |
 
 ## INTERNATIONAL:
 ### Germany 
-___
+> Don't expect to get an internship if you don't know any German
 Company | Information
 --- | ---
 Airbus |
@@ -69,10 +64,8 @@ Lufthansa Technik |
 Otto |
 Volkswagon |
 Daimler |
-> Don't expect to get an internship if you don't know any German
 
 ### UK 
-___
 Company | Information
 --- | ---
 Thales |
