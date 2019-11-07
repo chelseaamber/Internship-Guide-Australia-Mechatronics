@@ -55,8 +55,7 @@ Intel |
 HP |
 
 ## INTERNATIONAL:
-### Germany 
-> Don't expect to get an internship if you don't know any German
+### Germany
 Company | Information
 --- | ---
 Airbus |
