@@ -36,6 +36,7 @@ Google | An internship for the internet and tech giant pays very well. Software 
 Facebook | An internship at Facebook includes hackathons, offsite events and weekly Q&A sessions with executives, according to the company’s website. Interns make anywhere between $7,000 and $8,000 per month Glassdoor reports.)
 Github |
 Microsoft |
+Samsung |
 
 ### Mechanical (mostly automotive):
 ___
@@ -57,3 +58,31 @@ Company | AUS Internship | Information
 Dell |
 Intel |
 HP |
+
+## INTERNATIONAL:
+### Germany 
+___
+Company | Information
+--- | ---
+Airbus |
+Lufthansa Technik |
+Otto |
+Volkswagon |
+Daimler |
+> Don't expect to get an internship if you don't know any German
+
+### UK 
+___
+Company | Information
+--- | ---
+Thales |
+Jaguar Land Rover |
+Babcock |
+Renishaw |
+Rolls Royce |
+British Airways |
+Airbus |
+Aston Martin |
+Boeing |
+BMW |
+
