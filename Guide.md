@@ -11,11 +11,15 @@ Company | AUS Internship | Information
 [ANZ](https://www.anz.com.au/careers/programs/summer-intern/) | ✔️ | Summer Internship available
 [NAB](https://www.nab.com.au/about-us/careers/graduate-careers/nab-summer-intern-program) | ✔️ | Summer Internship Available
 [AECOM](https://www.aecom.com/australia-new-zealand-graduate-careers/undergraduate/) | ✔️ | We are seeking applicants from a wide range of disciplines, including civil, electrical, environmental, geotechnical, mechanical, structural, building services and chemical engineering as well as design, planning and program and cost management fields
-[Deliotte](https://www2.deloitte.com/au/en/pages/careers/articles/summer-vacation-program-careers.html) | ✔️ | "three to eight weeks in one of our business units" (Over summer)
+[Deliotte](https://www2.deloitte.com/au/en/pages/careers/articles/summer-vacation-program-careers.html) | ✔️ | "three to eight weeks in one of our business units" To find recommend programs for engineering: [click here](http://images.content.deloitte.com.au/Web/DELOITTEAUSTRALIA/%7Be3704724-8b6b-4432-97d1-ee57457fa96e%7D_20200120-hro-graduate-campaign-email-student-handbook.pdf?utm_medium=email&utm_source=eloqua&utm_campaign=20200120-hro-graduate-campaign&utm_content=cta&elq_mid=3264&elq_cid=216566) (Over Summer)
 [CommBank](https://www.commbank.com.au/about-us/careers/graduate-recruitment-program.html) | ✔️ | 10-week Summer program
 [BHP](https://www.bhp.com/our-approach/work-with-us/graduate-and-student-programs/australia) | ✔️ | "you will be a penultimate student and start in November working with us for 10-12 weeks."
 [WestPac](https://graduates.westpacgroup.com.au/internship) | ✔️ | Paid 10-week program
 [PwC](https://www.pwc.com.au/careers/student-careers/vacation.html) | ✔️ | 3-8 week summer program
+[Shell](https://www.shell.com.au/careers/students-and-graduates/assessed-internships.html) | ✔️ | 12 week assessed program.  Penultimate year. 
+[Rio Tinto] | ✔️ |
+[BHP] | ✔️ |
+[BoM] | 
 
 Other ideas of companies, but I could not find an online application for an internship program: 
 * QANTAS
@@ -25,12 +29,11 @@ Other ideas of companies, but I could not find an online application for an inte
 ### Software: 
 Company | AUS Internship | Information
 --- | --- | ---
-Apple | 
-Akuna |
+[Apple](https://jobs.apple.com/en-au/search?team=internships-STDNT-INTRN) | ❌ | Summer internship or a co-op during the academic year
 Amazon |
 Airbnb |
-Google | An internship for the internet and tech giant pays very well. Software engineering interns make more than $6,600 each month and an internship for MBA students pays $8,200 each month, according to anonymous reviews on Glassdoor.)
-Facebook | An internship at Facebook includes hackathons, offsite events and weekly Q&A sessions with executives, according to the company’s website. Interns make anywhere between $7,000 and $8,000 per month Glassdoor reports.)
+Google | 
+Facebook | An internship at Facebook includes hackathons, offsite events and weekly Q&A sessions with executives. 
 Github |
 Microsoft |
 Samsung |
@@ -40,6 +43,7 @@ Company | AUS Internship | Information
 --- | --- | ---
 BMW |
 Holden |
+Honda |
 Tesla |
 Mercedes-Benz |
 GE | 
@@ -77,4 +81,11 @@ Airbus |
 Aston Martin |
 Boeing |
 BMW |
+
+### USA 
+Company | Information
+Honeywell |
+Eaton | 
+Rockwell Collins |
+
 
