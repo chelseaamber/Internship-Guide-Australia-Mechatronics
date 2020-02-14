@@ -1,7 +1,7 @@
 ## Internship ideas + links to apply + information 💻
-I am currently in my second year of Engineering at Monash and not looking to apply for internships anytime soon. 
-However, idealising my long-term goals is a realistic source of motivation + inspiration for me, hence this list!
-Mechatronics is a mix of Electrical, Mechanical and Software concepts, so I have split the list into these categories - although ideally I'd like one that incorporates all of them. 
+I've seen a lot of Software Engineering internship lists available on github (which makes sense) however as someone more interested in the interaction between code and mechanical / electrical components I wanted to create a more Mechatronics focus reference list. 
+I am currently in my second year of Engineering at Monash and not looking to apply for internships anytime soon. However, idealising my long-term goals is a realistic source of motivation + inspiration for me, hence this list!
+as Mechatronics is a mix of Electrical, Mechanical and Software concepts, I have split the list into these categories - although ideally we'd like one that incorporates all of them. 
 
 ### General:
 Company | AUS Internship | Information
@@ -18,8 +18,7 @@ Company | AUS Internship | Information
 [PwC](https://www.pwc.com.au/careers/student-careers/vacation.html) | ✔️ | 3-8 week summer program
 [Shell](https://www.shell.com.au/careers/students-and-graduates/assessed-internships.html) | ✔️ | 12 week assessed program.  Penultimate year. 
 [Rio Tinto] | ✔️ |
-[BHP] | ✔️ |
-[BoM] | 
+[BoM] | ✔️ |
 
 Other ideas of companies, but I could not find an online application for an internship program: 
 * QANTAS
@@ -51,12 +50,18 @@ Porsche |
 Mazda |
 Ford |
 
-### Electrical:
+### Electrical / Energy:
 Company | AUS Internship | Information
 --- | --- | ---
 Dell |
 Intel |
 HP |
+Siemens |
+Vestas |
+GE Energy |
+Suzlon |
+Berkshire Hathaway Energy (BHE) |
+
 
 ## INTERNATIONAL:
 ### Germany
