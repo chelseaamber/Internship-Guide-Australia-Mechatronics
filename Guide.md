@@ -17,11 +17,11 @@ Company | AUS Internship | Information
 [WestPac](https://graduates.westpacgroup.com.au/internship) | ✔️ | Paid 10-week program
 [PwC](https://www.pwc.com.au/careers/student-careers/vacation.html) | ✔️ | 3-8 week summer program
 [Shell](https://www.shell.com.au/careers/students-and-graduates/assessed-internships.html) | ✔️ | 12 week assessed program.  Penultimate year. 
-[Rio Tinto] | ✔️ |
-[BoM] | ✔️ |
+[Rio Tinto](https://au.gradconnection.com/employers/rio-tinto/vacation-programmes/) | ✔️ | 12 week summer program.
 
 Other ideas of companies, but I could not find an online application for an internship program: 
 * QANTAS
+* BoM
 * Australian Security Intelligence Organisation (ASIO)
 * Department of Defence (have a graduate program online)
 
@@ -29,9 +29,9 @@ Other ideas of companies, but I could not find an online application for an inte
 Company | AUS Internship | Information
 --- | --- | ---
 [Apple](https://jobs.apple.com/en-au/search?team=internships-STDNT-INTRN) | ❌ | Summer internship or a co-op during the academic year
-Amazon |
-Airbnb |
-Google | 
+[Amazon](https://www.amazon.jobs/en/teams/internships-for-students?offset=0&result_limit=10&sort=relevant&business_category[]=student-programs&distanceType=Mi&radius=24km&latitude=&longitude=&loc_group_id=&loc_query=&base_query=&city=&country=&region=&county=&query_options=&) | ✔️ some, Sydney | Only support this company if your life depends on it, although I'm sure most CEO's are greedy dicks
+[Airbnb](https://careers.airbnb.com/university/) | ❌ | Not many Engineering related opportunities
+[Google & YouTube](https://careers.google.com/jobs/results/?category=DATA_CENTER_OPERATIONS&category=DEVELOPER_RELATIONS&category=HARDWARE_ENGINEERING&category=INFORMATION_TECHNOLOGY&category=MANUFACTURING_SUPPLY_CHAIN&category=NETWORK_ENGINEERING&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_INFRASTRUCTURE_ENGINEERING&category=TECHNICAL_SOLUTIONS&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&company=Google&company=YouTube&employment_type=INTERN&jex=ENTRY_LEVEL&q=Engineering) | ✔️ | Many overseas opportunities alongside Australian opportunities. 
 Facebook | An internship at Facebook includes hackathons, offsite events and weekly Q&A sessions with executives. 
 Github |
 Microsoft |
