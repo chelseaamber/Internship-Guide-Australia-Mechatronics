@@ -18,6 +18,7 @@ Company | AUS Internship | Information
 [PwC](https://www.pwc.com.au/careers/student-careers/vacation.html) | ✔️ | 3-8 week summer program
 [Shell](https://www.shell.com.au/careers/students-and-graduates/assessed-internships.html) | ✔️ | 12 week assessed program.  Penultimate year. 
 [Rio Tinto](https://au.gradconnection.com/employers/rio-tinto/vacation-programmes/) | ✔️ | 12 week summer program.
+[DST Defence](https://defencecareers.nga.net.au/cp/index.cfm?event=jobs.checkJobDetailsNewApplication&returnToEvent=jobs.listJobs&jobid=5B867960-6523-C59A-3D2D-B6764546B965&CurATC=defenceext&CurBID=0A5EDE6D%2DEE80%2D4646%2DBBAF%2D9DB40130227D&JobListID=D864CADA%2D0731%2DD8DB%2DE4B4%2DA3CDC48591E9&jobsListKey=785e2c43%2Dfb74%2D4a86%2Db84c%2D698cf7f1f38e&persistVariables=CurATC,CurBID,JobListID,jobsListKey,JobID&lid=75133220168) | ✔️ | 12 week summer program.
 
 Other ideas of companies, but I could not find an online application for an internship program: 
 * QANTAS
