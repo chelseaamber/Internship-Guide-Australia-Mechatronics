@@ -17,8 +17,10 @@ Company | AUS Internship | Information
 [WestPac](https://graduates.westpacgroup.com.au/internship) | ✔️ | Paid 10-week program
 [PwC](https://www.pwc.com.au/careers/student-careers/vacation.html) | ✔️ | 3-8 week summer program
 [Shell](https://www.shell.com.au/careers/students-and-graduates/assessed-internships.html) | ✔️ | 12 week assessed program.  Penultimate year. 
-[Rio Tinto](https://au.gradconnection.com/employers/rio-tinto/vacation-programmes/) | ✔️ | 12 week summer program.
+[Rio Tinto](https://au.gradconnection.com/employers/rio-tinto/vacation-programmes/) | ✔️ | 12 week summer program. CLOSED!
 [DST Defence](https://defencecareers.nga.net.au/cp/index.cfm?event=jobs.checkJobDetailsNewApplication&returnToEvent=jobs.listJobs&jobid=5B867960-6523-C59A-3D2D-B6764546B965&CurATC=defenceext&CurBID=0A5EDE6D%2DEE80%2D4646%2DBBAF%2D9DB40130227D&JobListID=D864CADA%2D0731%2DD8DB%2DE4B4%2DA3CDC48591E9&jobsListKey=785e2c43%2Dfb74%2D4a86%2Db84c%2D698cf7f1f38e&persistVariables=CurATC,CurBID,JobListID,jobsListKey,JobID&lid=75133220168) | ✔️ | 12 week summer program.
+[CSL](https://cslgraduateprogramexpressionofinterestform-csl.pushapply.com/#/login#form_top) | ✔️ | Submit expression of interest for grad program at any time
+[Suncorp](https://au.gradconnection.com/employers/suncorp/jobs/suncorp-eoi-suncorp-technology-transformation-vacation-program-2021/) | ✔️ | 12 week summer program.
 
 Other ideas of companies, but I could not find an online application for an internship program: 
 * QANTAS
@@ -33,35 +35,36 @@ Company | AUS Internship | Information
 [Amazon](https://www.amazon.jobs/en/teams/internships-for-students?offset=0&result_limit=10&sort=relevant&business_category[]=student-programs&distanceType=Mi&radius=24km&latitude=&longitude=&loc_group_id=&loc_query=&base_query=&city=&country=&region=&county=&query_options=&) | ✔️ some, Sydney | 
 [Airbnb](https://careers.airbnb.com/university/) | ❌ | Not many Engineering related opportunities
 [Google & YouTube](https://careers.google.com/jobs/results/?category=DATA_CENTER_OPERATIONS&category=DEVELOPER_RELATIONS&category=HARDWARE_ENGINEERING&category=INFORMATION_TECHNOLOGY&category=MANUFACTURING_SUPPLY_CHAIN&category=NETWORK_ENGINEERING&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_INFRASTRUCTURE_ENGINEERING&category=TECHNICAL_SOLUTIONS&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&company=Google&company=YouTube&employment_type=INTERN&jex=ENTRY_LEVEL&q=Engineering) | ✔️ | Many overseas opportunities alongside Australian opportunities. 
-Facebook | An internship at Facebook includes hackathons, offsite events and weekly Q&A sessions with executives. 
-Github |
-Microsoft |
-Samsung |
+Facebook | | An internship at Facebook includes hackathons, offsite events and weekly Q&A sessions with executives. 
+Github | |
+Microsoft | |
+Samsung | |
 
 ### Mechanical (mostly automotive):
 Company | AUS Internship | Information
 --- | --- | ---
-BMW |
-Holden |
-Honda |
-Tesla |
-Mercedes-Benz |
-GE | 
-Porsche |
-Mazda |
-Ford |
+BMW | |
+Holden | ✔️ |
+Honda | |
+Tesla | ✔️ |
+Mercedes-Benz | |
+GE | |
+Porsche | |
+Mazda | |
+Ford | ✔️ |
 
 ### Electrical / Energy:
 Company | AUS Internship | Information
 --- | --- | ---
-Dell |
-Intel |
-HP |
-Siemens |
-Vestas |
-GE Energy |
-Suzlon |
-Berkshire Hathaway Energy (BHE) |
+Dell | |
+Intel | |
+HP | |
+Siemens | ✔️ |
+Vestas | |
+GE Energy | ✔️ |
+Suzlon | |
+Berkshire Hathaway Energy (BHE) | ❌ |
+[Fortescue Metals Group](https://www.fmgl.com.au/jobs-at-fortescue/browse-jobs) | ✔️ | 14 days on, 7 days off - search 'vacation' in job search to see opportunities
 
 
 ## INTERNATIONAL:
